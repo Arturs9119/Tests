@@ -1,5 +1,5 @@
 # Tests
 Projekta darbs programmēšana
 Artūra palidzība 
-Uzvards:
-Vards:
+Uzvards: Grencions
+Vards: Gre4ka
